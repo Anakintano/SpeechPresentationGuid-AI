@@ -1,0 +1,4 @@
+ gradio
+ librosa
+ transformers
+ torch
