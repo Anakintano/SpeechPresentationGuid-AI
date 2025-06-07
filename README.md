@@ -1,6 +1,8 @@
+# Speaking Coach AI
+
 ![Screenshot 2025-04-03 105227](https://github.com/user-attachments/assets/e0e17c66-d338-4742-957a-fb66a8598ea7)
 
-# Speaking Coach AI
+
 
 🎙️ **Speaking Coach AI** is an AI-powered tool designed to help users improve their presentation and speaking skills. By uploading or recording an audio file, users receive constructive feedback on their speech, including tips to enhance clarity, professionalism, and grammar. The tool uses advanced speech-to-text transcription (via Whisper) and a language model (Qwen) to analyze and provide specific, actionable suggestions.
 
