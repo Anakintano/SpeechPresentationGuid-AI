@@ -1,3 +1,4 @@
+![Screenshot 2025-04-03 105227](https://github.com/user-attachments/assets/e0e17c66-d338-4742-957a-fb66a8598ea7)
 
 # Speaking Coach AI
 
@@ -62,6 +63,8 @@ torch
   - "Final suggested version: 'Artificial Intelligence will transform industries in the coming years...'"
 
 ## How It Works
+![Screenshot 2025-04-03 094716](https://github.com/user-attachments/assets/d21c076a-9088-4a94-a325-e96c7a738a15)
+
 1. **Audio Transcription**: The app uses the Whisper model (`openai/whisper-large`) to transcribe your audio into text.
 2. **Feedback Generation**: The transcribed text is analyzed by the Qwen language model (`Qwen/Qwen2.5-0.5B-Instruct`), which provides constructive feedback based on a few-shot prompting template.
 3. **Interface**: Gradio provides a simple web interface to interact with the tool.
